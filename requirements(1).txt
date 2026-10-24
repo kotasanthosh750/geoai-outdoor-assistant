@@ -1,0 +1,6 @@
+gradio>=5.0.0
+folium>=0.17.0
+requests>=2.32
+transformers>=4.45
+accelerate>=0.34
+torch
